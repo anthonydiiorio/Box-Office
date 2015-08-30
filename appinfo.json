@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Anthony Di Iorio",
+    "longName": "Box Office",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/film-i-f.png",
+                "name": "FILM_INV",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Futura-Bold.ttf",
+                "name": "FONT_FUTURA_BOLD_50",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Box Office",
+    "uuid": "dedbd5da-9ac6-4749-a8d4-f2c3dffd05e4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
