@@ -35,8 +35,8 @@ static void main_window_load(Window *window){
   
   layer_add_child(window_layer, bitmap_layer_get_layer(s_bitmap_layer));
   
-  GFont custom_font = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_FUTURA_BOLD_50));
-  s_time_layer = text_layer_create(GRect(0, 44, bounds.size.w, 75));
+  GFont custom_font = fonts_load_custom_font(resource_get_handle(RESOURCE_ID_FONT_FUTURA_BOLD_46));
+  s_time_layer = text_layer_create(GRect(0, 46, bounds.size.w, 75));
   text_layer_set_text_color(s_time_layer, GColorWhite);
   text_layer_set_background_color(s_time_layer, GColorClear);
   text_layer_set_text_alignment(s_time_layer, GTextAlignmentCenter);

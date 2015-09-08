@@ -9,14 +9,14 @@
     "resources": {
         "media": [
             {
+                "file": "fonts/Futura-Bold.ttf",
+                "name": "FONT_FUTURA_BOLD_46",
+                "type": "font"
+            },
+            {
                 "file": "images/film-i-f.png",
                 "name": "FILM_INV",
                 "type": "png"
-            },
-            {
-                "file": "fonts/Futura-Bold.ttf",
-                "name": "FONT_FUTURA_BOLD_50",
-                "type": "font"
             }
         ]
     },
@@ -24,7 +24,7 @@
     "shortName": "Box Office",
     "uuid": "dedbd5da-9ac6-4749-a8d4-f2c3dffd05e4",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": true
     }
